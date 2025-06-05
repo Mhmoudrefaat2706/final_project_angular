@@ -4,7 +4,10 @@
     "ABOUT": "About",
     "CONTACT": "Contact",
     "DASHBOARD": "Dashboard",
+    "PROFILE": "Profile",
+    "MATERIALS": "Materials",
     "LOGIN": "Login",
+    "LOGOUT": "LogOUT",
     "REGISTER": "Register",
     "LANGUAGE": "Language"
   },
